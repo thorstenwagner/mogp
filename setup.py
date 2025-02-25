@@ -10,7 +10,7 @@ setup(
     # package_data={'mogp': ['data/reference_model.pkl']},
 
     install_requires=[
-       'numpy>=1.20, <2',
+       'numpy>=1.25, <2',
        'GPy==1.13.2',
        'scikit-learn',
        'matplotlib',
